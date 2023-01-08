@@ -2,6 +2,7 @@ import AgoraRTC from "agora-rtc-sdk-ng"
 
 const {RtcTokenBuilder, RtmTokenBuilder, RtcRole, RtmRole} = require('agora-access-token')
 
+// These vars are conf vars
 const appId = '79a94d945be34991b9f177cf5f0f7dda';
 const appCertificate = 'f5169b81c5f24446a32e5bf2eb353fec';
 const channelName = 'test';
